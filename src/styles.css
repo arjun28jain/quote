@@ -1,0 +1,30 @@
+.container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .quote-container {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .dropdown-container {
+    margin-top: 20px;
+  }
+  
+  .bookmarks-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .bookmarks-list li {
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
